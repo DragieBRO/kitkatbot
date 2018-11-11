@@ -1,0 +1,2 @@
+# kitkatbot
+kitkatbot for discord
